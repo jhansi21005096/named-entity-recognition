@@ -181,7 +181,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ![output](https://github.com/jhansi21005096/named-entity-recognition/blob/main/output1.png)
 
 ### Sample Text Prediction
-![output]()
+![output](https://github.com/jhansi21005096/named-entity-recognition/blob/main/output2.png)
 ![output]()
 
 ## RESULT
