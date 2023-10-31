@@ -179,9 +179,9 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 ![output](https://github.com/jhansi21005096/named-entity-recognition/blob/main/output1.png)
-
-### Sample Text Prediction
+### Accuracy, Validation Accuracy Vs Iteration Plot:
 ![output](https://github.com/jhansi21005096/named-entity-recognition/blob/main/output2.png)
+### Sample Text Prediction
 ![output](https://github.com/jhansi21005096/named-entity-recognition/blob/main/output3.png)
 
 ## RESULT
