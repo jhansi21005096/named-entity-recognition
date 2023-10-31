@@ -16,7 +16,7 @@ Bidirectional Recurrent Neural Networks connect two hidden layers of opposite di
 
 ## Neural Network Model
 
-![output]()
+![output](https://github.com/jhansi21005096/named-entity-recognition/blob/main/inputdiagram.png)
 
 ## DESIGN STEPS
 
